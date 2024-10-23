@@ -7,7 +7,7 @@
 
 <h3 font-size="12px" font-weight="700">About me </h3>
 <p>
-🎓 I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat. </br>
+🎓 I am currently pursuing a degree in software engineering at Telecom Paris in France. </br>
 ⚡ I enjoy learning and teaching others. </br>
 ✍️ I am interested in competitive programming and IT readings. </br>
 </p>
